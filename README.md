@@ -1,7 +1,6 @@
 # IoT-Based Fire Detection and Controlling System 🔥🚨
 
 Smart IoT project using ESP8266 for early fire detection, real-time alerts, and automated suppression.  
-Developed as a Final Year Project at Universiti Teknikal Malaysia Melaka (UTeM).
 
 ---
 
